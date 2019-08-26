@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	margin: 0;
+	padding: 0;
+	background: url("../img1/Leadpages-Website-Builder-Announcement.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width:500px;
+	margin:0%;
+	padding:4%
+	
+
+}
+
+.login-section{
+        background-color:#ff33cc;
+        padding: 50px;
+
+}
+.login-section img{
+	display: block;
+    margin: 0 auto;
+    height: 150px;
+    border: 5px solid rgb(28, 131, 226);
+    border-radius: 50%;
+}
+
+.login-section h3 {
+	text-align: center;
+	color:white;
+	font-size: 30px;
+	font-transform: capitalize;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Niconne', cursive;
+font-family: 'Lobster', cursive;
+padding:5px;
+
+}
+
+.form-control {
+	 width:97%;
+	 height: 25px;
+	 padding:5px;
+	 margin-bottom:10px;
+
+
+}
+
+
+
+.btn{
+	margin:0px auto;
+	display: block;
+	background: orange;
+	padding: 6px 15px ;
+	border:none;
+	text-transform:uppercase;
+	transition: 0.8s ease;
+
+
+}
+.btn:hover{
+	box-shadow: 2px 3px 4px black;
+	cursor:pointer;
+
+ }
+.row ul { 
+	display: flex;
+    
+}
+.row ul li {
+
+     list-style: none;
+     padding: 10px;
+     margin: 0 11%;
+}
+
